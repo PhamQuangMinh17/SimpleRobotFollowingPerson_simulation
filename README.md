@@ -12,6 +12,7 @@ The repository for the **real-world implementation** can be found [here](#).
 
 ## Video Demonstration  
 Simulation: *https://youtu.be/vNwU35fxa-o*  
+Real-world implementation: * TO BE UPDATED SOON *
 
 ## Requirements  
 ROS2 Humble  
