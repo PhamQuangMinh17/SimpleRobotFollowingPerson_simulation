@@ -14,7 +14,7 @@ The repository for the **real-world implementation** can be found [here](#).
 *https://youtu.be/vNwU35fxa-o*
 
 ## How to Use
-
+'''
 1. Clone this repository into your ROS2 workspace and build. Below is just an example: 
    cd ~/turtlebot3_ws/src
    git clone https://github.com/PhamQuangMinh17/SimpleRobotFollowingPerson_simulation.git
