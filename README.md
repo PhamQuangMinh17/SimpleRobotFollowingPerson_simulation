@@ -10,7 +10,7 @@ The simulation features a moving human model, while the robot autonomously follo
 This is part of a larger human-following robot project using TurtleBot3.  
 The repository for the **real-world implementation** can be found [here](#).  
 
-## Video Demonstration  
+## Video Demonstration   
 Simulation: *https://youtu.be/vNwU35fxa-o*  
 Real-world implementation: * TO BE UPDATED SOON *
 
@@ -18,6 +18,7 @@ Real-world implementation: * TO BE UPDATED SOON *
 ROS2 Humble  
 YOLOv8  
 Python3  
+Turtlebot3 packages   
 Recommended OS: ubuntu 22.04 on dual boot or WSL2.  
   
 ## How to Use  
@@ -37,3 +38,6 @@ ros2 launch team1_tb3_sim team1_visualization.launch.py
 5. Terminal 3:  
 source install/setup.bash  
 ros2 launch team1_tb3_sim team1_follower.launch.py  
+
+## Contact  
+Please contact Mr. Minh Pham - quangminh2479@gmail.com - or Mr. Andy Nguyen - - for more details.  
