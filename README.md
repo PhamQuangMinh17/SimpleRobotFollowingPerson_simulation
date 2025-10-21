@@ -31,9 +31,8 @@ source install/setup.bash
 export TURTLEBOT3_MODEL=waffle_pi  
 ros2 launch team1_tb3_sim team1_world.launch.py
 
-5. Terminal 2: 
-ros2 launch team1_tb3_sim team1_visualization.launch.py
-
-7. Terminal 3:  
+4. Terminal 2:   
+ros2 launch team1_tb3_sim team1_visualization.launch.py  
+5. Terminal 3:  
 source install/setup.bash  
 ros2 launch team1_tb3_sim team1_follower.launch.py  
