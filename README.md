@@ -40,4 +40,4 @@ source install/setup.bash
 ros2 launch team1_tb3_sim team1_follower.launch.py  
 
 ## Contact  
-Please contact Mr. Minh Pham - quangminh2479@gmail.com - or Mr. Andy Nguyen - - for more details.  
+Please contact Mr. Minh Pham - quangminh2479@gmail.com - or Mr. Andy Nguyen - gianghnguyen84@gmail.com - for more details.  
